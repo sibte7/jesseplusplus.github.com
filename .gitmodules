@@ -1,0 +1,3 @@
+[submodule ".themes/bucktooth-bumbago"]
+	path = .themes/bucktooth-bumbago
+	url = git://github.com/octopress-themes/bucktooth-bumbago.git
