@@ -4,7 +4,7 @@
   <title><![CDATA[Abstractions speak louder than words]]></title>
   <link href="http://jessetoth.github.com/atom.xml" rel="self"/>
   <link href="http://jessetoth.github.com/"/>
-  <updated>2013-03-10T10:04:29-07:00</updated>
+  <updated>2013-03-21T10:17:37-07:00</updated>
   <id>http://jessetoth.github.com/</id>
   <author>
     <name><![CDATA[Jesse Toth]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New Beginnings]]></title>
+    <link href="http://jessetoth.github.com/blog/2013/03/21/new-beginnings/"/>
+    <updated>2013-03-21T10:08:00-07:00</updated>
+    <id>http://jessetoth.github.com/blog/2013/03/21/new-beginnings</id>
+    <content type="html"><![CDATA[<p>I feel like it&#8217;s time to get back into technical blogging. I had an old blog that I began writing in several years ago, but which has been left untouched for far too long. It seemed odd to me to just pick up and continue writing on the old blog with a two-year gap between posts, so I decided a new blog made more sense. Hopefully this one will be better maintained :) First up will be an adaptation of an internal blog post that I did for my current company on TDDing your javascript with Jasmine!</p>
+]]></content>
+  </entry>
   
 </feed>
